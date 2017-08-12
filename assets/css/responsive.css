@@ -1,0 +1,52 @@
+@media screen and (max-width: 980px) {
+
+  .auth-img {
+      width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .main-section {
+    width: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+
+  .sidebar {
+    width: 723px;
+    margin-right: 0px;
+    margin-left: 20px;
+    float: left;
+  }
+
+  #logo{
+    width: 100%;
+    margin-left: 0px;
+  }
+
+  nav {
+    margin-top: 0px;
+    margin-right: 0px;
+    text-align: center;
+    float: none;
+  }
+  nar a {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .work img {
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 640px) {
+
+  .sidebar {
+    width: 626px;
+    margin-right: 0px;
+    margin-left: 20px;
+    float: left;
+  }
+}
